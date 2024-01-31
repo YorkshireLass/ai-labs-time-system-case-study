@@ -1,0 +1,250 @@
+2024-01-31 12:27:49,639 | INFO | HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-01-31 12:27:49,641 | INFO | Received request.
+2024-01-31 12:27:49,641 | INFO | Successfully calculated coordinates.
+2024-01-31 12:27:49,642 | INFO | HTTP Request: GET http://testserver/calculate_coordinates? "HTTP/1.1 200 OK"
+2024-01-31 12:27:49,668 | INFO | Received request.
+2024-01-31 12:27:49,668 | INFO | Successfully calculated coordinates.
+2024-01-31 12:27:49,669 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?x0=0&y0=0&z0=0&sigma=1&rho=1&beta=1&delta_t=1&max_n=0 "HTTP/1.1 200 OK"
+2024-01-31 12:27:49,670 | INFO | Received request.
+2024-01-31 12:27:49,670 | INFO | Successfully calculated coordinates.
+2024-01-31 12:27:49,670 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?x0=-2&y0=-999999&z0=-0.789365738&max_n=0 "HTTP/1.1 200 OK"
+2024-01-31 12:27:49,672 | INFO | Received request.
+2024-01-31 12:27:49,672 | INFO | Successfully calculated coordinates.
+2024-01-31 12:27:49,672 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?&max_n=0 "HTTP/1.1 200 OK"
+2024-01-31 12:27:49,676 | INFO | Received request.
+2024-01-31 12:27:49,676 | INFO | Successfully calculated coordinates.
+2024-01-31 12:27:49,677 | INFO | HTTP Request: GET http://testserver/calculate_coordinates? "HTTP/1.1 200 OK"
+2024-01-31 12:27:49,681 | INFO | Received request.
+2024-01-31 12:27:49,681 | INFO | Successfully calculated coordinates.
+2024-01-31 12:27:49,681 | INFO | HTTP Request: GET http://testserver/calculate_coordinates? "HTTP/1.1 200 OK"
+2024-01-31 12:32:39,009 | INFO | HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-01-31 12:32:39,011 | INFO | HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-01-31 12:32:39,039 | INFO | Received request.
+2024-01-31 12:32:39,039 | INFO | Successfully calculated coordinates.
+2024-01-31 12:32:39,040 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?x0=0&y0=0&z0=0&sigma=1&rho=1&beta=1&delta_t=1&max_n=0 "HTTP/1.1 200 OK"
+2024-01-31 12:32:39,041 | INFO | HTTP Request: GET http://testserver/&max_n=0 "HTTP/1.1 404 Not Found"
+2024-01-31 12:32:39,046 | INFO | HTTP Request: GET http://testserver/&max_n=0 "HTTP/1.1 404 Not Found"
+2024-01-31 12:32:39,050 | INFO | HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-01-31 12:32:39,054 | INFO | HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-01-31 12:35:38,979 | INFO | HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-01-31 12:35:57,629 | INFO | HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-01-31 12:36:06,843 | INFO | HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-01-31 12:38:27,237 | INFO | HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-01-31 12:38:51,410 | INFO | HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-01-31 12:39:16,576 | INFO | HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-01-31 12:39:16,578 | INFO | HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-01-31 12:40:26,519 | INFO | HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-01-31 12:41:48,169 | INFO | HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-01-31 12:42:15,716 | INFO | HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-01-31 12:42:37,811 | INFO | HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-01-31 12:42:50,071 | INFO | HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-01-31 12:43:03,735 | INFO | Received request.
+2024-01-31 12:43:03,735 | INFO | Successfully calculated coordinates.
+2024-01-31 12:43:03,736 | INFO | HTTP Request: GET http://testserver/calculate_coordinates? "HTTP/1.1 200 OK"
+2024-01-31 12:43:31,575 | INFO | Received request.
+2024-01-31 12:43:31,576 | INFO | Successfully calculated coordinates.
+2024-01-31 12:43:31,576 | INFO | HTTP Request: GET http://testserver/calculate_coordinates? "HTTP/1.1 200 OK"
+2024-01-31 12:44:27,362 | INFO | Received request.
+2024-01-31 12:44:27,362 | INFO | Successfully calculated coordinates.
+2024-01-31 12:44:27,363 | INFO | HTTP Request: GET http://testserver/calculate_coordinates? "HTTP/1.1 200 OK"
+2024-01-31 12:45:05,012 | INFO | Received request.
+2024-01-31 12:45:05,012 | INFO | Successfully calculated coordinates.
+2024-01-31 12:45:05,013 | INFO | HTTP Request: GET http://testserver/calculate_coordinates? "HTTP/1.1 200 OK"
+2024-01-31 12:45:05,014 | INFO | Received request.
+2024-01-31 12:45:05,014 | INFO | Successfully calculated coordinates.
+2024-01-31 12:45:05,015 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?x0=0&y0=0&z0=0&sigma=1&rho=1&beta=1&delta_t=1&max_n=0 "HTTP/1.1 200 OK"
+2024-01-31 12:45:42,698 | INFO | Received request.
+2024-01-31 12:45:42,698 | INFO | Successfully calculated coordinates.
+2024-01-31 12:45:42,699 | INFO | HTTP Request: GET http://testserver/calculate_coordinates? "HTTP/1.1 200 OK"
+2024-01-31 12:45:42,700 | INFO | Received request.
+2024-01-31 12:45:42,700 | INFO | Successfully calculated coordinates.
+2024-01-31 12:45:42,701 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?x0=0&y0=0&z0=0&sigma=1&rho=1&beta=1&delta_t=1&max_n=0 "HTTP/1.1 200 OK"
+2024-01-31 12:45:42,702 | INFO | Received request.
+2024-01-31 12:45:42,702 | INFO | Successfully calculated coordinates.
+2024-01-31 12:45:42,703 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?x0=-2&y0=-999999&z0=-0.789365738&max_n=0 "HTTP/1.1 200 OK"
+2024-01-31 12:45:49,869 | INFO | Received request.
+2024-01-31 12:45:49,869 | INFO | Successfully calculated coordinates.
+2024-01-31 12:45:49,870 | INFO | HTTP Request: GET http://testserver/calculate_coordinates? "HTTP/1.1 200 OK"
+2024-01-31 12:45:49,871 | INFO | Received request.
+2024-01-31 12:45:49,871 | INFO | Successfully calculated coordinates.
+2024-01-31 12:45:49,872 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?x0=0&y0=0&z0=0&sigma=1&rho=1&beta=1&delta_t=1&max_n=0 "HTTP/1.1 200 OK"
+2024-01-31 12:45:49,873 | INFO | Received request.
+2024-01-31 12:45:49,873 | INFO | Successfully calculated coordinates.
+2024-01-31 12:45:49,874 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?x0=-2&y0=-999999&z0=-0.789365738&max_n=0 "HTTP/1.1 200 OK"
+2024-01-31 12:45:49,875 | INFO | Received request.
+2024-01-31 12:45:49,875 | INFO | Successfully calculated coordinates.
+2024-01-31 12:45:49,875 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?&max_n=0 "HTTP/1.1 200 OK"
+2024-01-31 12:46:25,775 | INFO | Received request.
+2024-01-31 12:46:25,775 | INFO | Successfully calculated coordinates.
+2024-01-31 12:46:25,776 | INFO | HTTP Request: GET http://testserver/calculate_coordinates? "HTTP/1.1 200 OK"
+2024-01-31 12:46:25,778 | INFO | Received request.
+2024-01-31 12:46:25,778 | INFO | Successfully calculated coordinates.
+2024-01-31 12:46:25,778 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?x0=0&y0=0&z0=0&sigma=1&rho=1&beta=1&delta_t=1&max_n=0 "HTTP/1.1 200 OK"
+2024-01-31 12:46:25,779 | INFO | Received request.
+2024-01-31 12:46:25,780 | INFO | Successfully calculated coordinates.
+2024-01-31 12:46:25,780 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?x0=-2&y0=-999999&z0=-0.789365738&max_n=0 "HTTP/1.1 200 OK"
+2024-01-31 12:46:25,781 | INFO | Received request.
+2024-01-31 12:46:25,781 | INFO | Successfully calculated coordinates.
+2024-01-31 12:46:25,782 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?&max_n=0 "HTTP/1.1 200 OK"
+2024-01-31 12:50:00,149 | INFO | Received request.
+2024-01-31 12:50:00,149 | INFO | Successfully calculated coordinates.
+2024-01-31 12:50:00,150 | INFO | HTTP Request: GET http://testserver/calculate_coordinates? "HTTP/1.1 200 OK"
+2024-01-31 12:50:00,151 | INFO | Received request.
+2024-01-31 12:50:00,151 | INFO | Successfully calculated coordinates.
+2024-01-31 12:50:00,152 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?x0=0&y0=0&z0=0&sigma=1&rho=1&beta=1&delta_t=1&max_n=0 "HTTP/1.1 200 OK"
+2024-01-31 12:50:00,153 | INFO | Received request.
+2024-01-31 12:50:00,153 | INFO | Successfully calculated coordinates.
+2024-01-31 12:50:00,154 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?x0=-2&y0=-999999&z0=-0.789365738&max_n=0 "HTTP/1.1 200 OK"
+2024-01-31 12:50:00,155 | INFO | Received request.
+2024-01-31 12:50:00,155 | INFO | Successfully calculated coordinates.
+2024-01-31 12:50:00,156 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?&max_n=0 "HTTP/1.1 200 OK"
+2024-01-31 12:51:20,582 | INFO | Received request.
+2024-01-31 12:51:20,582 | INFO | Successfully calculated coordinates.
+2024-01-31 12:51:20,583 | INFO | HTTP Request: GET http://testserver/calculate_coordinates? "HTTP/1.1 200 OK"
+2024-01-31 12:51:20,585 | INFO | Received request.
+2024-01-31 12:51:20,585 | INFO | Successfully calculated coordinates.
+2024-01-31 12:51:20,585 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?x0=0&y0=0&z0=0&sigma=1&rho=1&beta=1&delta_t=1&max_n=0 "HTTP/1.1 200 OK"
+2024-01-31 12:51:20,587 | INFO | Received request.
+2024-01-31 12:51:20,587 | INFO | Successfully calculated coordinates.
+2024-01-31 12:51:20,588 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?x0=-2&y0=-999999&z0=-0.789365738&max_n=0 "HTTP/1.1 200 OK"
+2024-01-31 12:51:20,589 | INFO | Received request.
+2024-01-31 12:51:20,589 | INFO | Successfully calculated coordinates.
+2024-01-31 12:51:20,589 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?&max_n=0 "HTTP/1.1 200 OK"
+2024-01-31 12:51:39,370 | INFO | Received request.
+2024-01-31 12:51:39,370 | INFO | Successfully calculated coordinates.
+2024-01-31 12:51:39,371 | INFO | HTTP Request: GET http://testserver/calculate_coordinates? "HTTP/1.1 200 OK"
+2024-01-31 12:51:39,372 | INFO | Received request.
+2024-01-31 12:51:39,372 | INFO | Successfully calculated coordinates.
+2024-01-31 12:51:39,373 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?x0=0&y0=0&z0=0&sigma=1&rho=1&beta=1&delta_t=1&max_n=0 "HTTP/1.1 200 OK"
+2024-01-31 12:51:39,374 | INFO | Received request.
+2024-01-31 12:51:39,374 | INFO | Successfully calculated coordinates.
+2024-01-31 12:51:39,375 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?x0=-2&y0=-999999&z0=-0.789365738&max_n=0 "HTTP/1.1 200 OK"
+2024-01-31 12:51:39,376 | INFO | Received request.
+2024-01-31 12:51:39,376 | INFO | Successfully calculated coordinates.
+2024-01-31 12:51:39,377 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?&max_n=0 "HTTP/1.1 200 OK"
+2024-01-31 12:52:32,234 | INFO | Received request.
+2024-01-31 12:52:32,234 | INFO | Successfully calculated coordinates.
+2024-01-31 12:52:32,235 | INFO | HTTP Request: GET http://testserver/calculate_coordinates? "HTTP/1.1 200 OK"
+2024-01-31 12:52:32,237 | INFO | Received request.
+2024-01-31 12:52:32,237 | INFO | Successfully calculated coordinates.
+2024-01-31 12:52:32,237 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?&x0=0&y0=0&z0=0&sigma=1&rho=1&beta=1&delta_t=1&max_n=0 "HTTP/1.1 200 OK"
+2024-01-31 12:52:32,238 | INFO | Received request.
+2024-01-31 12:52:32,238 | INFO | Successfully calculated coordinates.
+2024-01-31 12:52:32,239 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?&x0=-2&y0=-999999&z0=-0.789365738&max_n=0 "HTTP/1.1 200 OK"
+2024-01-31 12:52:32,240 | INFO | Received request.
+2024-01-31 12:52:32,240 | ERROR | Parameters ['x'] are not accepted. Accepted parameters are ['x0', 'y0', 'z0', 'sigma', 'rho', 'beta', 'delta_t', 'max_n'].
+2024-01-31 12:52:32,240 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?&x=1&max_n=0 "HTTP/1.1 400 Bad Request"
+2024-01-31 12:53:28,426 | INFO | Received request.
+2024-01-31 12:53:28,426 | INFO | Successfully calculated coordinates.
+2024-01-31 12:53:28,427 | INFO | HTTP Request: GET http://testserver/calculate_coordinates? "HTTP/1.1 200 OK"
+2024-01-31 12:53:28,428 | INFO | Received request.
+2024-01-31 12:53:28,428 | INFO | Successfully calculated coordinates.
+2024-01-31 12:53:28,429 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?&x0=0&y0=0&z0=0&sigma=1&rho=1&beta=1&delta_t=1&max_n=0 "HTTP/1.1 200 OK"
+2024-01-31 12:53:28,430 | INFO | Received request.
+2024-01-31 12:53:28,430 | INFO | Successfully calculated coordinates.
+2024-01-31 12:53:28,430 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?&x0=-2&y0=-999999&z0=-0.789365738&max_n=0 "HTTP/1.1 200 OK"
+2024-01-31 12:53:28,432 | INFO | Received request.
+2024-01-31 12:53:28,432 | ERROR | Parameters ['x'] are not accepted. Accepted parameters are ['x0', 'y0', 'z0', 'sigma', 'rho', 'beta', 'delta_t', 'max_n'].
+2024-01-31 12:53:28,432 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?&x=1&max_n=0 "HTTP/1.1 400 Bad Request"
+2024-01-31 12:53:37,690 | INFO | Received request.
+2024-01-31 12:53:37,690 | INFO | Successfully calculated coordinates.
+2024-01-31 12:53:37,691 | INFO | HTTP Request: GET http://testserver/calculate_coordinates? "HTTP/1.1 200 OK"
+2024-01-31 12:53:37,692 | INFO | Received request.
+2024-01-31 12:53:37,692 | INFO | Successfully calculated coordinates.
+2024-01-31 12:53:37,693 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?&x0=0&y0=0&z0=0&sigma=1&rho=1&beta=1&delta_t=1&max_n=0 "HTTP/1.1 200 OK"
+2024-01-31 12:53:37,694 | INFO | Received request.
+2024-01-31 12:53:37,694 | INFO | Successfully calculated coordinates.
+2024-01-31 12:53:37,695 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?&x0=-2&y0=-999999&z0=-0.789365738&max_n=0 "HTTP/1.1 200 OK"
+2024-01-31 12:53:37,696 | INFO | Received request.
+2024-01-31 12:53:37,696 | ERROR | Parameters ['x'] are not accepted. Accepted parameters are ['x0', 'y0', 'z0', 'sigma', 'rho', 'beta', 'delta_t', 'max_n'].
+2024-01-31 12:53:37,696 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?&x=1&max_n=0 "HTTP/1.1 400 Bad Request"
+2024-01-31 12:53:37,698 | INFO | Received request.
+2024-01-31 12:53:37,698 | INFO | Successfully calculated coordinates.
+2024-01-31 12:53:37,699 | INFO | HTTP Request: GET http://testserver/calculate_coordinates? "HTTP/1.1 200 OK"
+2024-01-31 12:54:08,137 | INFO | Received request.
+2024-01-31 12:54:08,137 | INFO | Successfully calculated coordinates.
+2024-01-31 12:54:08,138 | INFO | HTTP Request: GET http://testserver/calculate_coordinates? "HTTP/1.1 200 OK"
+2024-01-31 12:54:08,139 | INFO | Received request.
+2024-01-31 12:54:08,139 | INFO | Successfully calculated coordinates.
+2024-01-31 12:54:08,140 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?&x0=0&y0=0&z0=0&sigma=1&rho=1&beta=1&delta_t=1&max_n=0 "HTTP/1.1 200 OK"
+2024-01-31 12:54:08,141 | INFO | Received request.
+2024-01-31 12:54:08,141 | INFO | Successfully calculated coordinates.
+2024-01-31 12:54:08,142 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?&x0=-2&y0=-999999&z0=-0.789365738&max_n=0 "HTTP/1.1 200 OK"
+2024-01-31 12:54:08,143 | INFO | Received request.
+2024-01-31 12:54:08,143 | ERROR | Parameters ['x'] are not accepted. Accepted parameters are ['x0', 'y0', 'z0', 'sigma', 'rho', 'beta', 'delta_t', 'max_n'].
+2024-01-31 12:54:08,143 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?&x=1&max_n=0 "HTTP/1.1 400 Bad Request"
+2024-01-31 12:54:08,144 | INFO | Received request.
+2024-01-31 12:54:08,144 | INFO | Successfully calculated coordinates.
+2024-01-31 12:54:08,145 | INFO | HTTP Request: GET http://testserver/calculate_coordinates? "HTTP/1.1 200 OK"
+2024-01-31 12:54:40,227 | INFO | Received request.
+2024-01-31 12:54:40,227 | INFO | Successfully calculated coordinates.
+2024-01-31 12:54:40,228 | INFO | HTTP Request: GET http://testserver/calculate_coordinates? "HTTP/1.1 200 OK"
+2024-01-31 12:54:40,229 | INFO | Received request.
+2024-01-31 12:54:40,229 | INFO | Successfully calculated coordinates.
+2024-01-31 12:54:40,230 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?&x0=0&y0=0&z0=0&sigma=1&rho=1&beta=1&delta_t=1&max_n=0 "HTTP/1.1 200 OK"
+2024-01-31 12:54:40,231 | INFO | Received request.
+2024-01-31 12:54:40,231 | INFO | Successfully calculated coordinates.
+2024-01-31 12:54:40,232 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?&x0=-2&y0=-999999&z0=-0.789365738&max_n=0 "HTTP/1.1 200 OK"
+2024-01-31 12:54:40,233 | INFO | Received request.
+2024-01-31 12:54:40,233 | ERROR | Parameters ['x'] are not accepted. Accepted parameters are ['x0', 'y0', 'z0', 'sigma', 'rho', 'beta', 'delta_t', 'max_n'].
+2024-01-31 12:54:40,234 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?&x=1&max_n=0 "HTTP/1.1 400 Bad Request"
+2024-01-31 12:54:40,235 | INFO | Received request.
+2024-01-31 12:54:40,235 | INFO | Successfully calculated coordinates.
+2024-01-31 12:54:40,236 | INFO | HTTP Request: GET http://testserver/calculate_coordinates? "HTTP/1.1 200 OK"
+2024-01-31 12:54:58,246 | INFO | Received request.
+2024-01-31 12:54:58,246 | INFO | Successfully calculated coordinates.
+2024-01-31 12:54:58,247 | INFO | HTTP Request: GET http://testserver/calculate_coordinates? "HTTP/1.1 200 OK"
+2024-01-31 12:54:58,248 | INFO | Received request.
+2024-01-31 12:54:58,248 | INFO | Successfully calculated coordinates.
+2024-01-31 12:54:58,249 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?&x0=0&y0=0&z0=0&sigma=1&rho=1&beta=1&delta_t=1&max_n=0 "HTTP/1.1 200 OK"
+2024-01-31 12:54:58,250 | INFO | Received request.
+2024-01-31 12:54:58,250 | INFO | Successfully calculated coordinates.
+2024-01-31 12:54:58,250 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?&x0=-2&y0=-999999&z0=-0.789365738&max_n=0 "HTTP/1.1 200 OK"
+2024-01-31 12:54:58,251 | INFO | Received request.
+2024-01-31 12:54:58,252 | ERROR | Parameters ['x'] are not accepted. Accepted parameters are ['x0', 'y0', 'z0', 'sigma', 'rho', 'beta', 'delta_t', 'max_n'].
+2024-01-31 12:54:58,252 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?&x=1&max_n=0 "HTTP/1.1 400 Bad Request"
+2024-01-31 12:54:58,253 | INFO | Received request.
+2024-01-31 12:54:58,253 | INFO | Successfully calculated coordinates.
+2024-01-31 12:54:58,254 | INFO | HTTP Request: GET http://testserver/calculate_coordinates? "HTTP/1.1 200 OK"
+2024-01-31 12:55:25,757 | INFO | Received request.
+2024-01-31 12:55:25,757 | INFO | Successfully calculated coordinates.
+2024-01-31 12:55:25,758 | INFO | HTTP Request: GET http://testserver/calculate_coordinates? "HTTP/1.1 200 OK"
+2024-01-31 12:55:25,760 | INFO | Received request.
+2024-01-31 12:55:25,760 | INFO | Successfully calculated coordinates.
+2024-01-31 12:55:25,760 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?&x0=0&y0=0&z0=0&sigma=1&rho=1&beta=1&delta_t=1&max_n=0 "HTTP/1.1 200 OK"
+2024-01-31 12:55:25,761 | INFO | Received request.
+2024-01-31 12:55:25,761 | INFO | Successfully calculated coordinates.
+2024-01-31 12:55:25,762 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?&x0=-2&y0=-999999&z0=-0.789365738&max_n=0 "HTTP/1.1 200 OK"
+2024-01-31 12:55:25,763 | INFO | Received request.
+2024-01-31 12:55:25,763 | ERROR | Parameters ['x'] are not accepted. Accepted parameters are ['x0', 'y0', 'z0', 'sigma', 'rho', 'beta', 'delta_t', 'max_n'].
+2024-01-31 12:55:25,764 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?&x=1&max_n=0 "HTTP/1.1 400 Bad Request"
+2024-01-31 12:55:25,765 | INFO | Received request.
+2024-01-31 12:55:25,765 | INFO | Successfully calculated coordinates.
+2024-01-31 12:55:25,766 | INFO | HTTP Request: GET http://testserver/calculate_coordinates? "HTTP/1.1 200 OK"
+2024-01-31 12:56:42,367 | INFO | Received request.
+2024-01-31 12:56:42,368 | INFO | Successfully calculated coordinates.
+2024-01-31 12:56:42,368 | INFO | HTTP Request: GET http://testserver/calculate_coordinates? "HTTP/1.1 200 OK"
+2024-01-31 12:56:42,371 | INFO | Received request.
+2024-01-31 12:56:42,374 | INFO | Successfully calculated coordinates.
+2024-01-31 12:56:42,374 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?&x0=0&y0=0&z0=0&sigma=1&rho=1&beta=1&delta_t=1&max_n=0 "HTTP/1.1 200 OK"
+2024-01-31 12:56:42,381 | INFO | Received request.
+2024-01-31 12:56:42,382 | INFO | Successfully calculated coordinates.
+2024-01-31 12:56:42,382 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?&x0=-2&y0=-999999&z0=-0.789365738&max_n=0 "HTTP/1.1 200 OK"
+2024-01-31 12:56:42,387 | INFO | Received request.
+2024-01-31 12:56:42,390 | ERROR | Parameters ['x'] are not accepted. Accepted parameters are ['x0', 'y0', 'z0', 'sigma', 'rho', 'beta', 'delta_t', 'max_n'].
+2024-01-31 12:56:42,390 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?&x=1&max_n=0 "HTTP/1.1 400 Bad Request"
+2024-01-31 12:56:42,392 | INFO | Received request.
+2024-01-31 12:56:42,392 | INFO | Successfully calculated coordinates.
+2024-01-31 12:56:42,392 | INFO | HTTP Request: GET http://testserver/calculate_coordinates? "HTTP/1.1 200 OK"
+2024-01-31 12:57:44,658 | INFO | Received request.
+2024-01-31 12:57:44,658 | INFO | Successfully calculated coordinates.
+2024-01-31 12:57:44,659 | INFO | HTTP Request: GET http://testserver/calculate_coordinates? "HTTP/1.1 200 OK"
+2024-01-31 12:57:44,660 | INFO | Received request.
+2024-01-31 12:57:44,660 | INFO | Successfully calculated coordinates.
+2024-01-31 12:57:44,661 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?&x0=0&y0=0&z0=0&sigma=1&rho=1&beta=1&delta_t=1&max_n=0 "HTTP/1.1 200 OK"
+2024-01-31 12:57:44,662 | INFO | Received request.
+2024-01-31 12:57:44,662 | INFO | Successfully calculated coordinates.
+2024-01-31 12:57:44,663 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?&x0=-2&y0=-999999&z0=-0.789365738&max_n=0 "HTTP/1.1 200 OK"
+2024-01-31 12:57:44,664 | INFO | Received request.
+2024-01-31 12:57:44,664 | ERROR | Parameters ['x'] are not accepted. Accepted parameters are ['x0', 'y0', 'z0', 'sigma', 'rho', 'beta', 'delta_t', 'max_n'].
+2024-01-31 12:57:44,665 | INFO | HTTP Request: GET http://testserver/calculate_coordinates?&x=1&max_n=0 "HTTP/1.1 400 Bad Request"

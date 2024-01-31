@@ -1,0 +1,34 @@
+2024-01-31 12:12:28,935 | INFO | Received request
+2024-01-31 12:12:35,245 | INFO | Received request
+2024-01-31 12:13:02,227 | INFO | Received request <starlette.requests.Request object at 0x107ca3850>
+2024-01-31 12:13:58,975 | INFO | Received request
+2024-01-31 12:14:15,196 | INFO | Received request
+2024-01-31 12:14:15,197 | ERROR | Parameters ['z'] are not accepted. Accepted parameters are ['x0', 'y0', 'z0', 'sigma', 'rho', 'beta', 'delta_t', 'max_n'].
+2024-01-31 12:15:04,433 | INFO | Received request
+2024-01-31 12:15:04,433 | ERROR | Parameters ['z'] are not accepted. Accepted parameters are ['x0', 'y0', 'z0', 'sigma', 'rho', 'beta', 'delta_t', 'max_n'].
+2024-01-31 12:15:08,472 | INFO | Received request
+2024-01-31 12:15:08,473 | ERROR | Infinite value given for ['x0', 'y0']. Enter Real numbers only.
+2024-01-31 12:16:04,610 | INFO | Received request
+2024-01-31 12:16:04,610 | ERROR | Infinite value given for ['x0', 'y0']. Enter Real numbers only.
+2024-01-31 12:16:16,137 | INFO | Received request
+2024-01-31 12:16:16,137 | ERROR | could not convert string to float: '1/2'
+2024-01-31 12:17:48,557 | INFO | Received request
+2024-01-31 12:17:48,557 | ERROR | could not convert string to float: '1/2'
+2024-01-31 12:17:51,907 | INFO | Received request
+2024-01-31 12:17:51,907 | INFO | Successfully calculated coordinates.
+2024-01-31 12:23:44,704 | INFO | Received request.
+2024-01-31 12:23:44,704 | ERROR | Parameters ['x'] are not accepted. Accepted parameters are ['x0', 'y0', 'z0', 'sigma', 'rho', 'beta', 'delta_t', 'max_n'].
+2024-01-31 12:24:06,903 | INFO | Received request.
+2024-01-31 12:24:06,903 | ERROR | Parameters ['xo'] are not accepted. Accepted parameters are ['x0', 'y0', 'z0', 'sigma', 'rho', 'beta', 'delta_t', 'max_n'].
+2024-01-31 12:24:13,655 | INFO | Received request.
+2024-01-31 12:24:13,656 | ERROR | Infinite value given for ['x0']. Enter Real numbers only.
+2024-01-31 12:24:28,721 | INFO | Received request.
+2024-01-31 12:24:28,721 | ERROR | could not convert string to float: '-1/2'
+2024-01-31 12:26:05,790 | INFO | Received request.
+2024-01-31 12:26:05,790 | INFO | Successfully calculated coordinates.
+2024-01-31 12:27:00,433 | INFO | Received request.
+2024-01-31 12:27:00,434 | INFO | Successfully calculated coordinates.
+2024-01-31 12:27:11,112 | INFO | Received request.
+2024-01-31 12:27:11,113 | INFO | Successfully calculated coordinates.
+2024-01-31 12:52:03,528 | INFO | Received request.
+2024-01-31 12:52:03,529 | INFO | Successfully calculated coordinates.

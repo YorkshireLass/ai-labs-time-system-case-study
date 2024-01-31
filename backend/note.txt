@@ -1,0 +1,35 @@
+Must Have:
+- unit tests - DONE
+- terraform deployment files for "existing" ECS cluster
+- README.md file = describes how to initialize your project and start any development servers
+- Classes? Methods? Make sure to include docstrings! - DONE
+- validation checks & raise errors - DONE
+
+Nice to Have:
+- pagnation
+- rate limiting? (restricts the number of requests that users can make in a given time frame)
+
+To run app:
+uvicorn backend_main:app --reload
+uvicorn 'backend.venv.lib.python3.9.site-packages.fastapi.middleware.wsgi' backend_main:app --reload 
+uvicorn backend_main:app --reload 
+
+Run tests:
+pytest --pyargs
+
+To make sure know for after:
+- WHy have an __init__.py file? And why have another one for tests folder?
+- Why have query parameters with default defaults rather than annotated defaults
+    * more intuitive in general - can call function in other places without FastAPI, and works as expected
+      https://fastapi.tiangolo.com/tutorial/query-params-str-validations/
+- Why generator over function?
+- Why put tests in class?
+    * organisation
+    * sharing fixtures 
+    * applying marks at class level so they implicitly apply to all tests
+- ECS over EC2
+    * Containerisation - faster startup than EC2
+    * Centralised monitoring & CloudWatch (metrics, logs and alarms) - EC2 separate management config
+    * Cost optimisation - run on-demand cheaper than EC2 - lower CPU offering - charged every 1 min for Linux fargate (download to termination)
+- AWS Fargate over EC2 
+    * compute managed by AWS - no auto-scaling groups/networking needed
